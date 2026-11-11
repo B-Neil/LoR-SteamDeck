@@ -15,7 +15,7 @@ No `sudo`. You need about 20 GB free and an internet connection.
    ./install-lor-steamdeck.sh
    ```
 3. The first run builds a patched Proton. This takes a few minutes.
-4. When the Riot window opens: click **Install**, wait until it finishes, after the first window closes it will open the client, click install again and close the windowwhen the download is finished.
+4. When the Riot window opens: click **Install**, wait until it finishes. After the first window closes, it will open the client, click install again and close the window when the download is finished.
 5. Go back to Game Mode. The game is in the library under **Non-Steam**.
 
 The script builds [lor-proton](https://github.com/Maksim-Nikolaev/lor-proton) from source (GE-Proton 9-27 plus
